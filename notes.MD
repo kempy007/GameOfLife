@@ -41,8 +41,15 @@ R3, $Neighbours 2 or 3 = lives
 R2, $Neighbours 4+ = Dies
 R4, $Neighbours 3 = reanimate
 
+    Y
+    |
+    |___ X
+   /
+  Z
+
 # Timelog
-Day1 10am - 11:30am Wrote test with 2 examples plus one I generated via link above.
+Wrote test with 2 examples plus one I generated via link above. 1hr 30mins
+Wrote code with test failing due to bad testdata so corrected. 5hrs 20mins
 
 
 https://cyber-dojo.org/kata/edit/L7yg3K
