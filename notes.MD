@@ -50,6 +50,7 @@ R4, $Neighbours 3 = reanimate
 # Timelog
 Wrote test with 2 examples plus one I generated via link above. 1hr 30mins
 Wrote code with test failing due to bad testdata so corrected. 5hrs 20mins
+Total 6hrs 50 mins
 
 
 https://cyber-dojo.org/kata/edit/L7yg3K
